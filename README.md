@@ -73,7 +73,7 @@ Puedes modificar:
 
 * Correo: [daironvalencia@unipacifico.edu.co](mailto:daironvalencia@unipacifico.edu.co)
 * GitHub: https://github.com/davacam
-* LinkedIn: [(agregar enlace completo)](https://www.linkedin.com/in/dairon-valencia-campaz-963120205?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* LinkedIn: (https://www.linkedin.com/in/dairon-valencia-campaz-963120205?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
